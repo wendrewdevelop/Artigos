@@ -7,17 +7,3 @@ Nesse artigo, iremos explorar o CLI do micro-framework flask. Para quem não con
 - Click é um pacote feito para criar comandos personalizados para sua aplicação Flask escrevendo o minimo possivel.
 
 Semelhante aos comandos que o framework django possui para criar super-usuarios, criar apps, etc. o Click possibilita fazermos isso e o melhor é que podemos ir além e criar nossos proprios comandos, agilizando o desenvolvimento de nossos projetos.
-
-
-# Dependencias
-
-- Virtualenv
-- Flask
-
-<b>OBS:</b> <i>Irei partir da premissa de que você ja esta familiarizado com a configuração do ambiente e instalação das dependencias.</i>
-
-Sua estrutura de pastas deve ficar parecida com a minha:
-
-<img src="imagens/pastas.jpeg" width=250>
-
-<hr>
